@@ -2,13 +2,8 @@
 <p align="center">Blockchain Explorer for inspecting and analyzing EVM Chains.</p>
 <div align="center">
 
-[![Phi](https://github.network/Phi/Phi/workflows/Phi/badge.svg?branch=master)](https://github.network/Phi/Phi/actions)
-[![](https://dcbadge.vercel.app/api/server/Phi?style=flat)](https://discord.gg/Phi)
 
-</div>
-
-
-Phi provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on EVM (Ethereum Virtual Machine) blockchains. This includes the POA Network, Gnosis Chain, Ethereum Classic and other **Ethereum testnets, private networks and sidechains**.
+Phiscaj provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on PHI blockchains. This includes the POA Network, Gnosis Chain, Phi Classic and other **Phi testnets, private networks and sidechains**.
 
 See our [project documentation](https://docs.Phi.network/) for detailed information and setup instructions.
 
@@ -16,13 +11,13 @@ For questions, comments and feature requests see the [discussions section](https
 
 ## About Phi
 
-Phi is an Elixir application that allows users to search transactions, view accounts and balances, and verify smart contracts on the Ethereum network including all forks and sidechains.
+Phi is an Elixir application that allows users to search transactions, view accounts and balances, and verify smart contracts on the Phi network including all forks and sidechains.
 
-Currently available full-featured block explorers (Etherscan, Etherchain, Blockchair) are closed systems which are not independently verifiable.  As Ethereum sidechains continue to proliferate in both private and public settings, transparent, open-source tools are needed to analyze and validate transactions.
+Currently available full-featured block explorers (Etherscan, Etherchain, Blockchair) are closed systems which are not independently verifiable.  As Phi sidechains continue to proliferate in both private and public settings, transparent, open-source tools are needed to analyze and validate transactions.
 
 ## Supported Projects
 
-Phi supports a number of projects. Hosted instances include POA Network, Gnosis Chain, Ethereum Classic, Sokol & Kovan testnets, and other EVM chains.
+Phi supports a number of projects. Hosted instances include POA Network, Gnosis Chain, Phi Classic, Sokol & Kovan testnets, and other EVM chains.
 
 - [List of hosted mainnets, testnets, and additional chains using Phi](https://docs.Phi.network/for-projects/supported-projects)
 - [Hosted instance versions](https://docs.Phi.network/about/use-cases/hosted-Phi)
