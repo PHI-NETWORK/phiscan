@@ -15,24 +15,6 @@ Phiscan is an Elixir application that allows users to search transactions, view 
 
 Currently available full-featured block explorers (Etherscan, Etherchain, Blockchair) are closed systems which are not independently verifiable.  As Phi sidechains continue to proliferate in both private and public settings, transparent, open-source tools are needed to analyze and validate transactions.
 
-## Supported Projects
-
-Phiscan supports a number of projects. Hosted instances include POA Network, Gnosis Chain, Phi Classic, Sokol & Kovan testnets, and other EVM chains.
-
-- [List of hosted mainnets, testnets, and additional chains using Phi](https://docs.Phi.network/)
-- [Hosted instance versions](https://docs.Phi.network/)
-
-## Getting Started
-
-See the [project documentation](https://docs.Phi.network/) for instructions:
-
-- [Requirements](https://docs.Phi.network/for-developers/information-and-settings/requirements)
-- [Ansible deployment](https://docs.Phi.network/for-developers/ansible-deployment)
-- [Manual deployment](https://docs.Phi.network/for-developers/manual-deployment)
-- [ENV variables](https://docs.Phi.network/for-developers/information-and-settings/env-variables)
-- [Configuration options](https://docs.Phi.network/for-developers/configuration-options)
-
-
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution and pull request protocol. We expect contributors to follow our [code of conduct](CODE_OF_CONDUCT.md) when submitting code or comments.
