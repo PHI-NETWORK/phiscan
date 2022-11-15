@@ -3,24 +3,24 @@
 <div align="center">
 
 
-Phiscaj provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on PHI blockchains. This includes the POA Network, Gnosis Chain, Phi Classic and other **Phi testnets, private networks and sidechains**.
+Phiscaj provides a comprehensive, easy-to-use interface for users to view, confirm, and inspect transactions on PHI blockchains. 
 
 See our [project documentation](https://docs.Phi.network/) for detailed information and setup instructions.
 
 For questions, comments and feature requests see the [discussions section](https://github.network/Phi/Phi/discussions).
 
-## About Phi
+## About Phiscan
 
-Phi is an Elixir application that allows users to search transactions, view accounts and balances, and verify smart contracts on the Phi network including all forks and sidechains.
+Phiscan is an Elixir application that allows users to search transactions, view accounts and balances, and verify smart contracts on the Phi network including all forks and sidechains.
 
 Currently available full-featured block explorers (Etherscan, Etherchain, Blockchair) are closed systems which are not independently verifiable.  As Phi sidechains continue to proliferate in both private and public settings, transparent, open-source tools are needed to analyze and validate transactions.
 
 ## Supported Projects
 
-Phi supports a number of projects. Hosted instances include POA Network, Gnosis Chain, Phi Classic, Sokol & Kovan testnets, and other EVM chains.
+Phiscan supports a number of projects. Hosted instances include POA Network, Gnosis Chain, Phi Classic, Sokol & Kovan testnets, and other EVM chains.
 
-- [List of hosted mainnets, testnets, and additional chains using Phi](https://docs.Phi.network/for-projects/supported-projects)
-- [Hosted instance versions](https://docs.Phi.network/about/use-cases/hosted-Phi)
+- [List of hosted mainnets, testnets, and additional chains using Phi](https://docs.Phi.network/)
+- [Hosted instance versions](https://docs.Phi.network/)
 
 ## Getting Started
 
@@ -32,9 +32,6 @@ See the [project documentation](https://docs.Phi.network/) for instructions:
 - [ENV variables](https://docs.Phi.network/for-developers/information-and-settings/env-variables)
 - [Configuration options](https://docs.Phi.network/for-developers/configuration-options)
 
-## Acknowledgements
-
-We would like to thank the [EthPrize foundation](http://ethprize.io/) for their funding support.
 
 ## Contributing
 
